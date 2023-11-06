@@ -1,0 +1,38 @@
+D:\MSC\New folder\Custom Gmaes\obj\Debug\Custom Gmaes.csproj.AssemblyReference.cache
+D:\MSC\New folder\Custom Gmaes\obj\Debug\Custom Gmaes.csproj.SuggestedBindingRedirects.cache
+D:\MSC\New folder\Custom Gmaes\obj\Debug\Custom_Gmaes.Form1.resources
+D:\MSC\New folder\Custom Gmaes\obj\Debug\Custom_Gmaes.Properties.Resources.resources
+D:\MSC\New folder\Custom Gmaes\obj\Debug\Custom Gmaes.csproj.GenerateResource.cache
+D:\MSC\New folder\Custom Gmaes\obj\Debug\Custom Gmaes.csproj.CoreCompileInputs.cache
+D:\MSC\New folder\Custom Gmaes\bin\Debug\Custom Gmaes.exe.config
+D:\MSC\New folder\Custom Gmaes\bin\Debug\Custom Gmaes.exe
+D:\MSC\New folder\Custom Gmaes\bin\Debug\Custom Gmaes.pdb
+D:\MSC\New folder\Custom Gmaes\bin\Debug\SnakeGame1.exe
+D:\MSC\New folder\Custom Gmaes\bin\Debug\SnakeGame1.pdb
+D:\MSC\New folder\Custom Gmaes\obj\Debug\Custom Gmaes.csproj.CopyComplete
+D:\MSC\New folder\Custom Gmaes\obj\Debug\Custom Gmaes.exe
+D:\MSC\New folder\Custom Gmaes\obj\Debug\Custom Gmaes.pdb
+D:\MSC\New folder\Custom Gmaes\bin\Debug\SnakeGame1.exe.config
+D:\MSC\New folder\Custom Gmaes\bin\Debug\Custom Gmaes.exe.manifest
+D:\MSC\New folder\Custom Gmaes\bin\Debug\Custom Gmaes.application
+D:\MSC\New folder\Custom Gmaes\obj\Debug\Custom Gmaes.exe.manifest
+D:\MSC\New folder\Custom Gmaes\obj\Debug\Custom Gmaes.application
+D:\MSC\FY Programs\C# programs\Custom Gmaes\bin\Debug\Custom Gmaes.exe.config
+D:\MSC\FY Programs\C# programs\Custom Gmaes\bin\Debug\Custom Gmaes.exe.manifest
+D:\MSC\FY Programs\C# programs\Custom Gmaes\bin\Debug\Custom Gmaes.application
+D:\MSC\FY Programs\C# programs\Custom Gmaes\bin\Debug\Custom Gmaes.exe
+D:\MSC\FY Programs\C# programs\Custom Gmaes\bin\Debug\Custom Gmaes.pdb
+D:\MSC\FY Programs\C# programs\Custom Gmaes\bin\Debug\SnakeGame1.exe
+D:\MSC\FY Programs\C# programs\Custom Gmaes\bin\Debug\SnakeGame1.pdb
+D:\MSC\FY Programs\C# programs\Custom Gmaes\bin\Debug\SnakeGame1.exe.config
+D:\MSC\FY Programs\C# programs\Custom Gmaes\obj\Debug\Custom Gmaes.csproj.AssemblyReference.cache
+D:\MSC\FY Programs\C# programs\Custom Gmaes\obj\Debug\Custom Gmaes.csproj.SuggestedBindingRedirects.cache
+D:\MSC\FY Programs\C# programs\Custom Gmaes\obj\Debug\Custom_Gmaes.Form1.resources
+D:\MSC\FY Programs\C# programs\Custom Gmaes\obj\Debug\Custom_Gmaes.Properties.Resources.resources
+D:\MSC\FY Programs\C# programs\Custom Gmaes\obj\Debug\Custom Gmaes.csproj.GenerateResource.cache
+D:\MSC\FY Programs\C# programs\Custom Gmaes\obj\Debug\Custom Gmaes.csproj.CoreCompileInputs.cache
+D:\MSC\FY Programs\C# programs\Custom Gmaes\obj\Debug\Custom Gmaes.exe.manifest
+D:\MSC\FY Programs\C# programs\Custom Gmaes\obj\Debug\Custom Gmaes.application
+D:\MSC\FY Programs\C# programs\Custom Gmaes\obj\Debug\Custom Gmaes.csproj.CopyComplete
+D:\MSC\FY Programs\C# programs\Custom Gmaes\obj\Debug\Custom Gmaes.exe
+D:\MSC\FY Programs\C# programs\Custom Gmaes\obj\Debug\Custom Gmaes.pdb

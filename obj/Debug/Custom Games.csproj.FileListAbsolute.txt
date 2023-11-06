@@ -1,0 +1,8 @@
+D:\MSC\New folder\Custom Gmaes\obj\Debug\Custom Games.csproj.AssemblyReference.cache
+D:\MSC\New folder\Custom Gmaes\obj\Debug\Custom Games.csproj.SuggestedBindingRedirects.cache
+D:\MSC\New folder\Custom Gmaes\obj\Debug\Custom_Games.Form1.resources
+D:\MSC\New folder\Custom Gmaes\obj\Debug\Custom_Gmaes.Properties.Resources.resources
+D:\MSC\New folder\Custom Gmaes\obj\Debug\Custom Games.csproj.GenerateResource.cache
+D:\MSC\New folder\Custom Gmaes\obj\Debug\Custom Games.csproj.CoreCompileInputs.cache
+D:\MSC\New folder\Custom Gmaes\obj\Debug\Custom Gmaes.exe
+D:\MSC\New folder\Custom Gmaes\obj\Debug\Custom Gmaes.pdb

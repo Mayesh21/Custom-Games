@@ -1,0 +1,11 @@
+D:\MSC\New folder\SnakeGame1\bin\Debug\SnakeGame1.exe.config
+D:\MSC\New folder\SnakeGame1\bin\Debug\SnakeGame1.exe
+D:\MSC\New folder\SnakeGame1\bin\Debug\SnakeGame1.pdb
+D:\MSC\New folder\SnakeGame1\obj\Debug\SnakeGame1.csproj.AssemblyReference.cache
+D:\MSC\New folder\SnakeGame1\obj\Debug\SnakeGame1.csproj.SuggestedBindingRedirects.cache
+D:\MSC\New folder\SnakeGame1\obj\Debug\SnakeGame1.Form1.resources
+D:\MSC\New folder\SnakeGame1\obj\Debug\SnakeGame1.Properties.Resources.resources
+D:\MSC\New folder\SnakeGame1\obj\Debug\SnakeGame1.csproj.GenerateResource.cache
+D:\MSC\New folder\SnakeGame1\obj\Debug\SnakeGame1.csproj.CoreCompileInputs.cache
+D:\MSC\New folder\SnakeGame1\obj\Debug\SnakeGame1.exe
+D:\MSC\New folder\SnakeGame1\obj\Debug\SnakeGame1.pdb

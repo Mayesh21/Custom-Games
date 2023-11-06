@@ -1,0 +1,11 @@
+D:\MSC\New folder\CarRacing\bin\Debug\CarRacing.exe.config
+D:\MSC\New folder\CarRacing\bin\Debug\CarRacing.exe
+D:\MSC\New folder\CarRacing\bin\Debug\CarRacing.pdb
+D:\MSC\New folder\CarRacing\obj\Debug\CarRacing.csproj.AssemblyReference.cache
+D:\MSC\New folder\CarRacing\obj\Debug\CarRacing.csproj.SuggestedBindingRedirects.cache
+D:\MSC\New folder\CarRacing\obj\Debug\CarRacing.Form1.resources
+D:\MSC\New folder\CarRacing\obj\Debug\CarRacing.Properties.Resources.resources
+D:\MSC\New folder\CarRacing\obj\Debug\CarRacing.csproj.GenerateResource.cache
+D:\MSC\New folder\CarRacing\obj\Debug\CarRacing.csproj.CoreCompileInputs.cache
+D:\MSC\New folder\CarRacing\obj\Debug\CarRacing.exe
+D:\MSC\New folder\CarRacing\obj\Debug\CarRacing.pdb
